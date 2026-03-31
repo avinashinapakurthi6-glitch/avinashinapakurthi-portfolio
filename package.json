@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "postinstall": "cd app && npm install",
     "dev": "cd app && npm run dev",
     "build": "cd app && npm run build",
     "lint": "cd app && npm run lint",
