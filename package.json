@@ -7,6 +7,7 @@
     "preview": "cd app && npm run preview"
   },
   "dependencies": {
+    "coffeescript": "^2.7.0",
     "dependency": "^0.0.1"
   }
 }
