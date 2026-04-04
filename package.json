@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "coffeescript": "^2.7.0",
-    "dependency": "^0.0.1"
+    "dependency": "^0.0.1",
+    "typescript": "~5.9.3"
   },
   "devDependencies": {
-    "typescript": "^6.0.2"
   }
 }
